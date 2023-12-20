@@ -1,0 +1,10 @@
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\bin\x64\Test\GestionMarket.exe.config
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.csproj.GestionMarket.exe.config
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Articles.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Categories.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Connexion.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.FacturationForm.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Factures.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Properties.Resources.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.Vendeurs.resources
+C:\Users\Chacal\Documents\Visual Studio 2015\Projects\GestionMarket\GestionMarket\obj\x64\Test\GestionMarket.csproj.GenerateResource.Cache
